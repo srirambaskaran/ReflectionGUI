@@ -1,9 +1,8 @@
 package org.reflection.gui;
 
 /** Reflection.java
- *Coded by sriramb,sgsshankar,hari raghav
- *released under creative commons license
- *http://creativecommons.org/ for more details
+ * released under creative commons license
+ * http://creativecommons.org/ for more details
  */
 import java.awt.BorderLayout;
 import java.awt.List;
