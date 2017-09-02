@@ -21,9 +21,6 @@ import javax.swing.JScrollPane;
 import javax.swing.JTextField;
 
 class Reflection extends JFrame implements ActionListener {
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
 	JTextField text;
 	List area, modifierArea;
